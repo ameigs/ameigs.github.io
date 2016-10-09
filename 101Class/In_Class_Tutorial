@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <!-- HEAD -->
+    <head>
+          <title>
+
+          </title>
+    </head>
+    <!-- BODY -->
+    <body>
+          <!-- HEADER -->
+          <header>
+              <h1>All about Rap Lyrics </h1>
+              <nav>
+                  <ul>
+                      <li><a href="url">Home</a></li>
+                      <li><a href="url">Artists</a></li>
+                      <li><a href="url">Songs</a></li>
+                      <li><a href="url">about</a></li>
+                  </ul>
+              </nav>
+          </header>
+          <!-- MAIN -->
+          <main>
+
+          </main>
+          <!--FOOTER -->
+          <footer>
+
+          </footer>
+
+    </body>
+
+</html>

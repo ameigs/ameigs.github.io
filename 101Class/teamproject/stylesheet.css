@@ -1,0 +1,69 @@
+/*header, stretch whole width, centered text, background color?, text color, font?*/
+html{
+
+  background-color: black;
+}
+
+header {
+  /*centering the text*/
+  background-image: url(Seattle-Skyline-01.png);
+  background-position:center;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  width: 800px;
+  color: Lime;
+  height: 200px;
+}
+
+.block {
+  display: inline-block;
+  max-width:600px;
+}
+
+/*nav, alirgn left, font size, link underlines (text-decorations), */
+nav {
+  margin:0 0;
+  width: 150px;
+  font-size: 20px;
+  text-decoration-color: white;
+  color: white;
+  vertical-align: top;
+}
+article {
+ vertical-align: top;
+ max-width: 400px;
+ font-size: 30px;
+ font-family: comic;
+ background-color: black;
+ color: lime;
+}
+
+aside img {
+  max-width:500px;
+  }
+
+footer {
+ margin: 0 auto;
+ width: 800px;
+ color: white;
+}
+
+/* unvisited link */
+a:link {
+    color: lime;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: green;
+}
